@@ -1,0 +1,3 @@
+Git - merge -rebase - Task
+Adding line 1 - Hello
+Adding Line 2 - Welcome!
